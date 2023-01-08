@@ -48,4 +48,6 @@ var res = UrlFetchApp.fetch(url1, spost);
 var js = JSON.parse(res);
 console.log(js)
 //hasil akhirnya js, sudah berupa json    
+//by macancrew@gmail.com
+//telegram @xoerbiston
 }
