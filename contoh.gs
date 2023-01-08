@@ -28,7 +28,7 @@ for (var i = 0; i < cookies.length; i++) {
     
 var cc = cookies[0]+"; "+cookies[1]
 var url1 = "https://bimasislam.kemenag.go.id/ajax/getShalatbln";
-var da = "x=8VaawGGsT6hIY8jPqc%252FmTm0EDdMEhVdVDz7iLSobARAIUHgiafBLgUqltuSqeNPFSSYJgoR1iBf70rNFLQairQ%253D%253D&y=36MaMMq%252FZ8XK2meT8agTVmT3TGEsRRKPdlLWrwA0uCFMhv1hPOLOWOWgGXWGK7baotFvbEVZFKPtqLvXMPvIvA%253D%253D&bln=1&thn=2023";
+var da = "x=8VaawGGsT6hIY8jPqc%252FmTm0EDdMEhVdVDz7iLSobARAIUHgiafBLgUqltuSqeNPFSSYJgoR1iBf70rNFLQairQ%253D%253D&y=36MaMMq%252FZ8XK2meT8agTVmT3TGEsRRKPdlLWrwA0uCFMhv1hPOLOWOWgGXWGK7baotFvbEVZFKPtqLvXMPvIvA%253D%253D&"+dm;
 //value da adalah provinsi dan kota
 //bisa lihat codenya di https://bimasislam.kemenag.go.id/jadwalshalat
 //untuk contoh ini adalah papua barat, kota sorong
